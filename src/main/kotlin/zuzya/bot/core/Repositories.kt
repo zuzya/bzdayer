@@ -1,4 +1,4 @@
-package core
+package zuzya.bot.core
 
 import org.springframework.data.repository.CrudRepository
 
